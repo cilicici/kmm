@@ -55,5 +55,5 @@ kmmbridge {
 //    use manualVersions instead of githubReleaseVersions to set version manually
 //    manualVersions()
     spm()
-    cocoapods("https://github.com/cilicici/kmmcocoapodsrepo.git")
+//    cocoapods("https://github.com/cilicici/kmmcocoapodsrepo.git")
 }
